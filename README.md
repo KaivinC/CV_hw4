@@ -91,7 +91,7 @@ $python3 test.py -opt options/test_SRFBN.json
 
 ## Make Submission
 
-Click [here](https://drive.google.com/drive/folders/1sbb527to9S8Ej-25QOb0IrQ-d2TDBcYK) to submission the json file!!
+Click [here](https://drive.google.com/drive/folders/1sbb527to9S8Ej-25QOb0IrQ-d2TDBcYK) to submission the  result image!!
 
 ## Citation
 
